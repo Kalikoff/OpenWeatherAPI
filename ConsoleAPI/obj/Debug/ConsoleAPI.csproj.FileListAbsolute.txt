@@ -1,0 +1,10 @@
+C:\Users\Kalikoff-PC\Desktop\ConsoleAPI\ConsoleAPI\bin\Debug\ConsoleAPI.exe.config
+C:\Users\Kalikoff-PC\Desktop\ConsoleAPI\ConsoleAPI\bin\Debug\ConsoleAPI.exe
+C:\Users\Kalikoff-PC\Desktop\ConsoleAPI\ConsoleAPI\bin\Debug\ConsoleAPI.pdb
+C:\Users\Kalikoff-PC\Desktop\ConsoleAPI\ConsoleAPI\obj\Debug\ConsoleAPI.csproj.AssemblyReference.cache
+C:\Users\Kalikoff-PC\Desktop\ConsoleAPI\ConsoleAPI\obj\Debug\ConsoleAPI.csproj.CoreCompileInputs.cache
+C:\Users\Kalikoff-PC\Desktop\ConsoleAPI\ConsoleAPI\obj\Debug\ConsoleAPI.exe
+C:\Users\Kalikoff-PC\Desktop\ConsoleAPI\ConsoleAPI\obj\Debug\ConsoleAPI.pdb
+C:\Users\Kalikoff-PC\Desktop\ConsoleAPI\ConsoleAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kalikoff-PC\Desktop\ConsoleAPI\ConsoleAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kalikoff-PC\Desktop\ConsoleAPI\ConsoleAPI\obj\Debug\ConsoleAPI.csproj.CopyComplete
